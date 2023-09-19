@@ -1,0 +1,13 @@
+.logo{
+    margin: auto;
+    background-color: aqua;
+    width: 10px;
+    height: 600;
+}
+
+img{
+    width: 500px;
+}
+a{
+    text-decoration: none;
+}
